@@ -1,0 +1,15 @@
+default_to_none = true
+id = "viSukkan2i"
+tags = [ "CommonFestivals", "SunSankranti",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "To celebrate the new year, first thing in the morning, one sees the various symbols of prosperity (dhana, dhaanya, etc.---ornaments, grains, fruits, etc.) places in a vessel alongside a lamp and vigrahas. Widely celebrated in Kerala and Tamil Nadu.(नयाँ वर्ष मनाउन बिहान सबेरै, समृद्धिका विभिन्न प्रतीकहरू (धन, धन्य, आदि---गहना, अन्न, फलफूल, आदि) बत्ती र विग्रहहरूसँगै भाँडामा राखिएका देखिन्छन्। केरला र तमिलनाडुमा व्यापक रूपमा मनाइन्छ।")"
+ne = "नयाँ वर्ष मनाउन बिहान सबेरै, समृद्धिका विभिन्न प्रतीकहरू (धन, धन्य, आदि---गहना, अन्न, फलफूल, आदि) बत्ती र विग्रहहरूसँगै भाँडामा राखिएका देखिन्छन्। केरला र तमिलनाडुमा व्यापक रूपमा मनाइन्छ।""
+
+[names]
+ta = [ "viSukkan2i",]

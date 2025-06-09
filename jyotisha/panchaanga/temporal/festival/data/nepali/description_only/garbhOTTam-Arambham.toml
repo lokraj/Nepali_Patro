@@ -1,0 +1,15 @@
+default_to_none = true
+id = "garbhOTTam-Arambham"
+tags = [ "LessCommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The generation of clouds during this period is correlated with the prevalence of rain during the forthcoming monsoon season. (अस्मिन् काले मेघानां जननं आगामिनि मानसूनऋतौ वर्षाप्रसारेण सह सम्बद्धा अस्ति ।)"
+ne = "यस अवधिमा बादलको उत्पादन आगामी मनसुन ऋतुमा वर्षाको प्रचुरतासँग सम्बन्धित छ।"
+
+[names]
+ta = [ "garbhOTTam Arambham",]

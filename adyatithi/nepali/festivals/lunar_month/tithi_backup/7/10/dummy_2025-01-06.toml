@@ -1,0 +1,24 @@
+type = "HinduCalendarEvent"
+jsonClass = "HinduCalendarEvent"
+
+name = "Dummy Festival for Pausha Shukla Ashtami"
+description = "A test festival on Pausha Shukla Ashtami (8th tithi, 10th lunar month)."
+observed_on = "tithi"
+tags = ["Dummy", "Test", "Nepali"]
+
+[rules]
+tithi = 7
+month = 10
+
+[timing]
+type = "HinduCalendarEventTiming"
+jsonClass = "HinduCalendarEventTiming"
+month_type = "lunar_month"
+month_number = 10
+anga_type = "tithi"
+anga_number = 7
+#kaala = "सूर्योदयः"
+
+[details]
+en = "Observed on Pausha Shukla Ashtami for testing."
+ne = "पौष शुक्ल अष्टमीमा परीक्षण उत्सव।"

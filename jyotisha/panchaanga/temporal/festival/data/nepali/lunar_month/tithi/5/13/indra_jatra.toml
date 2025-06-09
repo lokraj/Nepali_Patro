@@ -1,0 +1,21 @@
+default_to_none = true
+id = "indra_jatra"
+tags = [ "NepaliFestivals", "KathmanduFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "paraviddha"
+month_number = 5 # Bhadra (भाद्र)
+anga_type = "tithi"
+anga_number = 13 # Trayodashi, or use the correct tithi as per tradition
+kaala = "सायम्"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Indra Jatra is a major festival in Kathmandu, celebrating the king of gods Indra, with processions, dances, and chariot pulling."
+ne = "इन्द्र जात्रा काठमाडौंमा मनाइने प्रमुख पर्व हो, जसमा इन्द्रको सम्मानमा रथयात्रा, नाचगान, जात्रा गरिन्छ।"
+
+[names]
+ne = [ "इन्द्र जात्रा",]

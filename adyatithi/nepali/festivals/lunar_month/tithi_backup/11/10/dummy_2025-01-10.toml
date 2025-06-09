@@ -1,0 +1,24 @@
+type = "HinduCalendarEvent"
+jsonClass = "HinduCalendarEvent"
+
+name = "पौष शुक्ल एकादशी"
+description = "This is Ekadashi in Pausha Shukla Paksha."
+observed_on = "tithi"
+tags = ["Nepali", "Test"]
+
+[rules]
+tithi = 11
+month = 10
+
+[timing]
+type = "HinduCalendarEventTiming"
+jsonClass = "HinduCalendarEventTiming"
+month_type = "lunar_month"
+month_number = 10
+anga_type = "tithi"
+anga_number = 11
+#kaala = "सूर्योदयः"
+
+[details]
+en = "Observed on Pausha Shukla Ekadashi."
+ne = "पौष शुक्ल एकादशीमा उत्सव।"

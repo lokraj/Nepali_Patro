@@ -1,0 +1,14 @@
+default_to_none = true
+id = "muDavan2_muzhukku"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Nadha Sharma (`muDavan2{}`, i.e. lame man) and his wife Anavidyambikai came to Mayavaram in order to perform a `tulA snAnam` in Kaveri. However, by the time they arrived, it was the last day of `tulA mAsa` and they could not complete the `snAnam`. They were disappointed yet spent their time doing Puja of the Bhagavan, who appeared in their dreams and asked them to take a bath next morning (1st day of Vrschika) and reap full benefits of the Tula Kaveri Snanam itself! (नधा शर्मा (`मुदवन२{}`, अर्थात् लङ्गडा मानिस) र उनकी श्रीमती अनविद्याम्बिकाई कावेरीमा `तुलस्नानम` गर्न मायावरम आएका थिए। यद्यपि, तिनीहरू आइपुग्दा `तुलस्नानम` को अन्तिम दिन थियो र तिनीहरूले `स्नानम` पूरा गर्न सकेनन्। तिनीहरू निराश भए तापनि भगवानको पूजा गर्नमा आफ्नो समय बिताए, जसले तिनीहरूको सपनामा देखा पर्नुभयो र तिनीहरूलाई भोलिपल्ट बिहान (वृश्चिकको पहिलो दिन) स्नान गर्न र `तुलस्नानमको पूर्ण लाभ उठाउन भन्नुभयो!)"
+
+[names]
+ta = [ "muDavan2 muzhukku",]

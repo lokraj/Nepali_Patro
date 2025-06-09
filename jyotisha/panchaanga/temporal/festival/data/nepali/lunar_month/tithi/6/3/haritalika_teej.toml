@@ -1,0 +1,21 @@
+default_to_none = true
+id = "haritalika_teej"
+tags = [ "NepaliFestivals", "WomenFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "paraviddha"
+month_number = 6 # Bhadra (भाद्र)
+anga_type = "tithi"
+anga_number = 3 # Tritiya (तीज)
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Haritalika Teej is a fasting festival celebrated by Nepali women for marital happiness and well-being."
+ne = "हरितालिका तीज नेपाली महिलाहरूले सौभाग्य र पारिवारिक सुखका लागि ब्रत बसेर मनाउने पर्व हो।"
+
+[names]
+ne = [ "हरितालिका तीज", "तीज",]

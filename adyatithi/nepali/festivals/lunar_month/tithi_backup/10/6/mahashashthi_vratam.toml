@@ -1,0 +1,18 @@
+type = "HinduCalendarEvent"
+
+jsonClass = "HinduCalendarEvent"
+id = "mahashashthi_vratam"
+tags = ["MonthlyVratam", "ShashthiVratam"]
+sa = "मासिक शष्ठी व्रतं श्रीसुब्रह्मण्याय समर्पितम्।"
+
+[names]
+sa = ["महाषष्ठी-व्रतम्"]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+month_type = "lunar_month"
+month_number = 10
+anga_type = "tithi"
+anga_number = 6
+kaala = "सूर्योदयः"
+priority = "puurvaviddha"

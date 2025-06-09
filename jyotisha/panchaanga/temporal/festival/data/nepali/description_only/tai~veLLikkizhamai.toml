@@ -1,0 +1,14 @@
+default_to_none = true
+id = "tai~veLLikkizhamai"
+tags = [ "MonthWeekdayFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Very widely celebrated in Tamil Nadu temples, Fridays in the month of `tai` are special for propitiating Shakti Devi. At homes, there is also a common practice of `mAviLakku`, lighting ghee lamps in flour. (तमिलनाडुका मन्दिरहरूमा धेरै व्यापक रूपमा मनाइने, 'ताई' महिनाको शुक्रबार शक्ति देवीको प्रसन्नताको लागि विशेष हुन्छ। घरहरूमा, 'माविलक्कु' को एक सामान्य अभ्यास पनि छ, पीठोमा घिउको बत्ती बाल्ने।)"
+
+[names]
+ta = [ "tai~veLLikkizhamai",]

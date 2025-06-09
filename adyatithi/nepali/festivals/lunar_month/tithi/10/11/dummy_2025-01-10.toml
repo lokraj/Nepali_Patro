@@ -1,0 +1,22 @@
+type = "HinduCalendarEvent"
+jsonClass = "HinduCalendarEvent"
+name = "Dummy Festival for Month 10 Tithi 11"
+description = "Auto-generated dummy festival for month 10, tithi 11, date 2025-01-10"
+observed_on = "tithi"
+tags = [ "Dummy", "Autogen", "Nepali",]
+
+[rules]
+tithi = 11
+month = 10
+
+[timing]
+type = "HinduCalendarEventTiming"
+jsonClass = "HinduCalendarEventTiming"
+month_type = "lunar_month"
+month_number = 10
+anga_type = "tithi"
+anga_number = 11
+
+[details]
+en = "Dummy festival on tithi 11, month 10, date 2025-01-10"
+ne = "डमी पर्व: महिना 10, तिथि 11, मिति 2025-01-10"

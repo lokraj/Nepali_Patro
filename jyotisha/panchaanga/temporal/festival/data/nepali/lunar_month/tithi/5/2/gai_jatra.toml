@@ -1,0 +1,21 @@
+default_to_none = true
+id = "gai_jatra"
+tags = [ "NepaliFestivals", "KathmanduFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "paraviddha"
+month_number = 5 # Bhadra
+anga_type = "tithi"
+anga_number = 2 # Dwitiya (द्वितीया)
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Gai Jatra is the cow festival of Nepal, honoring departed family members."
+ne = "गाई जात्रा नेपालको परम्परागत पर्व हो, जसमा दिवंगत आत्माको शान्तिका लागि गाईको पूजा गरिन्छ।"
+
+[names]
+ne = [ "गाई जात्रा",]

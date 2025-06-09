@@ -1,0 +1,21 @@
+default_to_none = true
+id = "maghe_sankranti"
+tags = [ "NepaliFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "puurvaviddha"
+month_number = 10 # Makara (Capricorn)
+anga_type = "tithi"
+anga_number = 1 # 1st tithi (typically, you may need to adjust for exact day)
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Maghe Sankranti is the first day of the Nepali month of Magh. People take holy baths and eat yam, sesame laddus, and molasses."
+ne = "माघे संक्रान्ति नेपालमा माघ महिनाको पहिलो दिन मनाइन्छ। यस दिन पवित्र स्नान गरी तरुल, चाकु, तिलको लड्डु, गुँड आदि खाने चलन छ।"
+
+[names]
+ne = [ "माघे संक्रान्ति", "माघ संक्रान्ति", "माघी",]

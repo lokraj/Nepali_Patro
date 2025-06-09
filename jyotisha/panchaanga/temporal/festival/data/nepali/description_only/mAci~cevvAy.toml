@@ -1,0 +1,14 @@
+default_to_none = true
+id = "mAci~cevvAy"
+tags = [ "MonthWeekdayFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Do `upavAsam` (at least do not take salt) and pray to Bhagavan Shiva (Vaidyanatha Swami). 'उपवासम' गर्नुहोस् (कम्तिमा नुन नलिनुहोस्) र भगवान शिव (वैद्यनाथ स्वामी) को प्रार्थना गर्नुहोस्।"
+
+[names]
+ta = [ "mAci~cevvAy",]
